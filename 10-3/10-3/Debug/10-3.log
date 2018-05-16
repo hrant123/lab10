@@ -1,0 +1,4 @@
+﻿  103.cpp
+c:\users\user\source\repos\10-3\10-3\103.cpp(14): warning C4477: 'printf_s' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'char *'
+  10-3.vcxproj -> C:\Users\User\source\repos\10-3\Debug\10-3.exe
+  10-3.vcxproj -> C:\Users\User\source\repos\10-3\Debug\10-3.pdb (Partial PDB)
